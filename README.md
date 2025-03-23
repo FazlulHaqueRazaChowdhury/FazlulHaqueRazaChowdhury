@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FazlulHaqueRazaChowdhury
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning mern stack development
-- 💞️ I’m looking to collaborate on front end web development
+- 👀 I’m interested in Problem Solving
+- 🌱 Compeitive Programmer
 - 📫 How to reach me : fazlulhaquerazachowdhury@gmail.com
 
 <!---
